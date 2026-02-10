@@ -220,36 +220,15 @@ If the composite score > 0.5, the applicant is labeled as creditworthy (1), othe
 - [ ] Add real-world dataset integration
 - [ ] Create interactive dashboard (Streamlit/Dash)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - @PalaviBhave
 
-Project Link: [https://github.com/yourusername/credit_scoring](https://github.com/yourusername/credit_scoring)
+Project Link: [https://github.com/PalaviBhave/credit_scoring](https://github.com/PalaviBhave/credit_scoring)
 
-## 🙏 Acknowledgments
 
-- Synthetic dataset generated for educational purposes
-- Inspired by real-world credit scoring systems
-- Built using scikit-learn best practices
 
-## ⚠️ Disclaimer
 
-This is an educational project using synthetic data. It should not be used for actual credit decisions. Real-world credit scoring involves many more factors, regulatory compliance, and ethical considerations.
-
----
-
-**Built with ❤️ using Python and scikit-learn**
